@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common.iml" filepath="$PROJECT_DIR$/mall-common/mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manager/mall-manager.iml" filepath="$PROJECT_DIR$/mall-manager/mall-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manager-mapper/mall-manager-mapper.iml" filepath="$PROJECT_DIR$/mall-manager-mapper/mall-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manager-pojo/mall-manager-pojo.iml" filepath="$PROJECT_DIR$/mall-manager-pojo/mall-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manager-service/mall-manager-service.iml" filepath="$PROJECT_DIR$/mall-manager-service/mall-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manager-web/mall-manager-web.iml" filepath="$PROJECT_DIR$/mall-manager-web/mall-manager-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/taotaomall.iml" filepath="$PROJECT_DIR$/taotaomall.iml" />
     </modules>
   </component>
