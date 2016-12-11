@@ -1,6 +1,6 @@
 package com.lwhtarena.taotaomall.service;
 
-import com.lwhtarena.taotaomall.TbItemParam;
+import com.lwhtarena.taotaomall.pojo.TbItemParam;
 import com.lwhtarena.taotaomall.common.pojo.TaotaoResult;
 
 /**
