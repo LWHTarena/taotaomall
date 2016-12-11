@@ -11,16 +11,26 @@
         <module name="mall-manager-pojo" />
         <module name="mall-manager-service" />
         <module name="mall-manager-web" />
+        <module name="mall-order" />
+        <module name="mall-portal" />
+        <module name="mall-rest" />
+        <module name="mall-search" />
+        <module name="mall-sso" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mall-common" target="1.7" />
-      <module name="mall-manager" target="1.7" />
-      <module name="mall-manager-mapper" target="1.7" />
-      <module name="mall-manager-pojo" target="1.7" />
-      <module name="mall-manager-service" target="1.7" />
-      <module name="mall-manager-web" target="1.7" />
-      <module name="taotaomall" target="1.7" />
+      <module name="mall-common" target="1.8" />
+      <module name="mall-manager" target="1.8" />
+      <module name="mall-manager-mapper" target="1.8" />
+      <module name="mall-manager-pojo" target="1.8" />
+      <module name="mall-manager-service" target="1.8" />
+      <module name="mall-manager-web" target="1.8" />
+      <module name="mall-order" target="1.8" />
+      <module name="mall-portal" target="1.8" />
+      <module name="mall-rest" target="1.8" />
+      <module name="mall-search" target="1.8" />
+      <module name="mall-sso" target="1.8" />
+      <module name="taotaomall" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

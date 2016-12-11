@@ -12,6 +12,11 @@
   <modules>
     <module>mall-common</module>
     <module>mall-manager</module>
+    <module>mall-order</module>
+    <module>mall-portal</module>
+    <module>mall-rest</module>
+    <module>mall-search</module>
+    <module>mall-sso</module>
   </modules>
 
   <!-- 集中定义依赖版本号 -->
@@ -206,8 +211,8 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.2</version>
         <configuration>
-          <source>1.7</source>
-          <target>1.7</target>
+          <source>1.8</source>
+          <target>1.8</target>
           <encoding>UTF-8</encoding>
         </configuration>
       </plugin>
